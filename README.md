@@ -1,4 +1,4 @@
-# CLPlearning: Interval Constraint Solving based for Binary Classification
+# CLPlearning: Interval Constraint Solving based Binary Classification
 
 This is the implementation of a learning method for binary classification based on interval constraint solving. 
 It uses fuzzy logic to map datasets to fuzzy sets with the aim to rescale and redistribute the data points in the fuzzy space.
